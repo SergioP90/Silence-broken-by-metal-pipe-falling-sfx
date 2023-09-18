@@ -7,7 +7,7 @@ The only way to kill it is to do it manually via task manager or cmd (The defaul
 Do what you want with it, but I do not take any responsability for anything
 
 
-============================================================================================
+=========================================================================
 
 NEW VERSION: PIPE 2.0
 This new version is larger (reason why is not available compiled) and does more. Apart from the annoying sound, a pipe image is brought up, disturbing your work even more!
